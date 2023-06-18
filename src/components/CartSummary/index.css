@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.carSummary-container {
+  align-self: flex-end;
+}
+
+.orderedBtn {
+  color: #ffffff;
+  font-size: 18px;
+  height: 35px;
+  width: 300px;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  border: none;
+}
+
+.orderTotal {
+  color: #616e7c;
+  font-size: 21px;
+  font-family: 'Roboto';
+}
+
+.amount {
+  color: #171f46;
+  font-size: 21px;
+  font-family: 'Roboto';
+}
+
+.quantity {
+  color: #616e7c;
+  font-size: 18px;
+  margin-left: 0px;
+
+  font-family: 'Roboto';
+}

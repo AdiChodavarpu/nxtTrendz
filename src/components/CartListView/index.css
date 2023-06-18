@@ -1,0 +1,13 @@
+.cart-list {
+  padding-left: 0px;
+}
+
+.removeAll {
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 21px;
+  font-weight: 500;
+  align-self: flex-end;
+  border: none;
+  background-color: transparent;
+}
